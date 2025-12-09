@@ -45,7 +45,7 @@ const Header = () => {
                 alt="Agora Blockchain"
               />
               <h1 className="ml-3 text-xl font-bold text-gray-800 hidden sm:block">
-                Jayesh Blockchain
+                Agora Blockchain
               </h1>
             </Link>
 
